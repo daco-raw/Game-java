@@ -4,11 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
+.idea/
 *.iml
 *.ipr
 
@@ -30,6 +26,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+.gitignore
 
 ### VS Code ###
 .vscode/
